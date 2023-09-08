@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="code3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/code3/pagerank.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/tracks.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/opengeo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/gmane.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/roster.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/geodata.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code3/bs4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
